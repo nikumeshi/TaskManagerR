@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TMv2</string>
+    <string name="addButtonLabel">+</string>
+    <string name="priority">Priority</string>
+    <string name="immediately">Immediately</string>
+    <string name="asap">ASAP</string>
+    <string name="soon">Soon</string>
+    <string name="anytime">AnyTime</string>
+    <string name="okButton_label">OK</string>
+    <string name="cancelButton_label">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Modify</string>
+</resources>
